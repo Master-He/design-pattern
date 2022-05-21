@@ -33,7 +33,7 @@ public class Worker extends Builder{
     }
 
     @Override
-    Product getProduct() {
+    public Product build() {
         return product;
     }
 }
