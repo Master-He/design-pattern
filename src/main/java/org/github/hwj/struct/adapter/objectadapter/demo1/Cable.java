@@ -1,4 +1,4 @@
-package org.github.hwj.struct.adapter;
+package org.github.hwj.struct.adapter.objectadapter.demo1;
 
 public class Cable {
     public void request() {
