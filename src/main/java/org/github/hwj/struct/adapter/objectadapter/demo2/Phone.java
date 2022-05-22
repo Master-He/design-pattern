@@ -6,7 +6,7 @@ public class Phone {
     }
 
     /**
-     * 演示类适配器
+     * 演示适配器， 其实这个不是严格意义上的对象适配器
      * 缺点： Adapter需要继承Source220V， Source5V需要是接口。
      */
     public static void main(String[] args) {
