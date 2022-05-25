@@ -1,4 +1,4 @@
-package org.github.hwj.behavior.responsibility;
+package org.github.hwj.behavior.responsibility.demo1;
 
 public class GeneralManger extends Handler {
     public GeneralManger() {
